@@ -1,12 +1,21 @@
 {
+  "name": "initials-avatar-react",
+  "version": "1.0.0",
+  "description": "A lightweight React component that generates user avatars based on initials",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
-  "files": ["dist"],
-  "scripts": {
-    "build": "rollup -c"
+  "keywords": ["react", "avatar", "initials", "component", "username"],
+  "author": "Inderpal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Inderpal004/react-username-avatar-npm-package.git"
   },
+  "files": [
+    "dist"
+  ],
   "peerDependencies": {
-    "react": "^17.0.0 || ^18.0.0",
-    "react-dom": "^17.0.0 || ^18.0.0"
+    "react": ">=17.0.0",
+    "react-dom": ">=17.0.0"
   }
 }
