@@ -1,8 +1,8 @@
-# 🧑‍🎨 react-username-avatar
+# 🧑‍🎨 initials-avatar-react
 
 A lightweight React component that generates a circular avatar with user initials and customizable background colors. Ideal for apps that need user identification when profile images are missing.
 
-![React Username Avatar Demo](./demo.png)
+![initials-avatar-react Demo](./demo.png)
 
 ---
 
