@@ -18,9 +18,9 @@ A lightweight React component that generates a circular avatar with user initial
 ## 📦 Installation
 
 ```bash
-npm install react-username-avatar
+npm i initials-avatar-react
 # or
-yarn add react-username-avatar
+yarn add initials-avatar-react
 
 
 ## 🚀 Usage
@@ -28,18 +28,18 @@ yarn add react-username-avatar
 ### 🧱 Basic Example
 
 ```jsx
-import ReactAvatar from 'react-username-avatar';
+import ReactAvatar from 'initials-avatar-react';
 
 function App() {
   return (
     <div>
-      <ReactAvatar name="John Doe" />
+      <ReactAvatar name="Inderpal Singh" />
     </div>
   );
 }
 ````
 
-This will render a circular avatar showing `JD` with a default size of `50px` and an auto-selected background color.
+This will render a circular avatar showing `IS` with a default size of `50px` and an auto-selected background color.
 
 ---
 
